@@ -1,7 +1,7 @@
 {
   "name": "tellmeimawesome",
-  "version": "999.0.0",
-  "description": "No meaning other than to remind you; your pretty awesome",
+  "version": "999.0.1",
+  "description": "No meaning other than to remind you; your pretty awesome. Use by typing 'tellmeimawesome' in the terminal.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
