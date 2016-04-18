@@ -4,8 +4,8 @@ A script that literally tells you that you're awesome in command line. Follow th
 
 #Install
 
->npm install -g tellmeimawesome
+  npm install -g tellmeimawesome
 
 #Use
 
->tellmeimawesome
+  tellmeimawesome
