@@ -1,0 +1,18 @@
+{
+  "name": "tellmeimawesome",
+  "version": "999.0.0",
+  "description": "No meaning other than to remind you; your pretty awesome",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Lucas Black",
+  "license": "ISC",
+  "bin": {
+    "tellmeimawesome": "./index.js"
+  },
+  "dependencies": {
+    "chalk": "^1.1.3",
+    "string": "^3.3.1"
+  }
+}
